@@ -4,9 +4,5 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+### Hi! My name is Chloe Qian. I am a senior majoring in Computer Science with a minor in Mathematics. I like exploring new restaurants, watching netflix and playing volleyball with my friends. I am very excited to take this course :) 
 
