@@ -22,6 +22,7 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
+| Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    
+| March 8  |  fixing avatar    |  blog website | Rebecca's avatar did not show up on the blog website. I helped her fix the problem.|
 |     |     |     |      |
 |     |     |     |      |
