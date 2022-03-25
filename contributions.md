@@ -23,6 +23,6 @@ Replace the first row with your own contribution.
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
 | Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    
-| March 8  |  fixing avatar    |  blog website | Rebecca's avatar did not show up on the blog website. I helped her fix the problem.|
-|     |     |     |      |
-|     |     |     |      |
+| March 8  |  [fixing avatar](https://github.com/ossd-sp22/Rebeccaxxxxx-weekly/pulls?q=is%3Apr+is%3Aclosed)    |  blog website | Rebecca's avatar did not show up on the blog website. I helped her fix the problem.|
+| March 25    | Adding a note on OpenStreetMap    |  OpenStreetMap   |  The Chick-fil-A in Weinstein Hall was permanently closed because of Covid-19. I added a note to inform the editor to delete the location.    |
+| March 25    | [Adding a location on OpenStreetMap](https://www.openstreetmap.org/changeset/118926407#map=17/40.73266/-73.99202&layers=N)    | OpenStreetMap    | I added a UPS store that is located between the Sticky's and Subway on 111 E 14th Street, New York.     |
